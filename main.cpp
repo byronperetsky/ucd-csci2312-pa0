@@ -8,7 +8,7 @@
 
 int main() {
 
-    std::cout << "Hello, world! My number is " << 105789918 % 13 << '!' << std::endl;
+    std::cout << "Hello, world! My number is " << 0 << '!' << std::endl;
 
     return 0;
 }
